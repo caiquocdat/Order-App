@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707243643390",
+    "project_id": "order-app-a3001",
+    "storage_bucket": "order-app-a3001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707243643390:android:473fdc13652b4e8a5270af",
+        "android_client_info": {
+          "package_name": "com.example.orderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707243643390-vkuu4inj5kqrdc55bveo7sdtdrjs5d96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcj6fS-V5F3eV9Avj1F8VI7jz2J2HMueA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707243643390-vkuu4inj5kqrdc55bveo7sdtdrjs5d96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
